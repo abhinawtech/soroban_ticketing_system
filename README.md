@@ -3,12 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Stellar Ticketing System</title>
 </head>
 <body>
 
   <h1>Stellar Ticketing System</h1>
-
+  <img src="./ticket.webp" alt="Stellar Ticketing System Image" style="width: 100%; max-width: 800px">
   <h2>Project Description</h2>
   <p>Our project aims to develop a ticketing system leveraging the Stellar blockchain. This system will provide a secure and transparent platform for buying, selling, and transferring event tickets. Users can easily purchase tickets using Stellar Lumens (XLM) or other supported cryptocurrencies. Each ticket will be represented as a unique token on the Stellar network, ensuring authenticity and preventing duplication.</p>
 
